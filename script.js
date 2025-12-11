@@ -5,6 +5,27 @@ const awesomeLists = [
       "A curated list of resources, apps, communities, guides, and tools for traveling in Canada.",
     link: "https://github.com/brandontravel/awesome-canada-travel",
     category: "Countries"
+  },
+  {
+    title: "Awesome Digital Nomads",
+    description:
+      "A curated list of awesome resources, tools, communities, and tips for digital nomads who want to embrace a location-independent lifestyle.",
+    link: "https://github.com/brandontravel/awesome-digital-nomads",
+    category: "Meta"
+  },
+  {
+    title: "Awesome Travel Hacking",
+    description:
+      "A curated list of awesome resources, tools, and strategies for travel hacking, designed to help you save money, earn points and miles, and travel the world for less.",
+    link: "https://github.com/brandontravel/awesome-travel-hacking",
+    category: "Meta"
+  },
+  {
+    title: "Awesome Solo Traveler",
+    description:
+      "A curated list of awesome resources, tools, blogs, communities, and platforms for solo travelers.",
+    link: "https://github.com/brandontravel/awesome-solo-traveler",
+    category: "Meta"
   }
 ];
 
